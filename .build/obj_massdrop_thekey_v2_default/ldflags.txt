@@ -1,0 +1,1 @@
+-Wl,--gc-sections -Wl,-Map=.build/massdrop_thekey_v2_default.map,--cref     -lm 
