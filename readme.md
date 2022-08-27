@@ -43,7 +43,7 @@ The main keyboard file contained in this repository thus far in the `cp-rgb-medi
 #### Layer 4
 **Left:** Layer Switch  
 **Middle:** Media Play/Pause  
-**Right:** Media Next Track  
+**Right:** Media Previous Track  
 
 
 A white light will flash on an individual LED to indicate which layer you have switch to. There are 5 positions, starting with the leftmost corner, moving to below the first key, then second key, then third key, then the bottom right corner.   
